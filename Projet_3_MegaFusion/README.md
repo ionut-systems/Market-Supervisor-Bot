@@ -2,7 +2,7 @@
 
 Ce projet représente l'aboutissement de mes compétences en automatisation et en développement logiciel. Il s'agit d'un outil complet de type **ETL (Extract, Transform, Load)**, doté d'une interface graphique, conçu pour la surveillance de données de marché.
 
-![Supreviseur de Tri](./assets/App_fusion_suivi_marché.mp4)
+![Application de suivi de marché en cours de fonctionnement, montrant une interface Tkinter de surveillance de marché, avec des tableaux, des indicateurs de performance et des données de prix en temps réel sur un écran de bureau. La fenêtre principale affiche une vue densemble de plusieurs actifs financiers, avec des panneaux de suivi, des seuils de prise de profit et des indicateurs visuels de tendances. L environnement est minimaliste et professionnel, centré sur l analyse automatique des opportunités de trading. Le ton est sérieux et orienté produit, avec un usage fonctionnel et analytique.](./assets/App_fusion_suivi_marché.mp4)
 
 ## 🛠️ Architecture Technique
 
