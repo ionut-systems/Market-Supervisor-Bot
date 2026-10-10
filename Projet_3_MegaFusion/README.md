@@ -13,5 +13,3 @@ Ce projet représente l'aboutissement de mes compétences en automatisation et e
 
 ## 🎯 Objectif Métier
 Démontrer ma capacité à architecturer un produit logiciel de bout en bout : passer d'un script console basique à une véritable application de bureau robuste, tolérante aux pannes et générant de la donnée actionnable.
-
-[def]: ./assets/App_fusion_suivi_marché.mp4
