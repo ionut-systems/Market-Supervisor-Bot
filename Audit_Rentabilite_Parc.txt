@@ -1,0 +1,14 @@
+=== AUDIT DE RENDEMENT MINIER (Preuve de Travail) ===
+Date de l'audit : 10/10/2026 21:43
+
+--- DÉTAIL DU HARDWARE ---
+- ⚡ 424246 | Puissance: 34.24 TH/s | Profit Net/Jour: 0.000130 BTC
+- ⚡ 234948 | Puissance: 20.99 TH/s | Profit Net/Jour: 0.000210 BTC
+- ⚡ 23916 | Puissance: 76.12 TH/s | Profit Net/Jour: 0.000085 BTC
+
+--- RÉSUMÉ DES PERFORMANCES ---
+Hashrate Total : 131.35000000000002 TH/s
+ROI Mensuel Net estimé : 0.012750 BTC
+ROI Annuel Net estimé  : 0.155125 BTC
+
+Document généré automatiquement par le système d'audit interne.
