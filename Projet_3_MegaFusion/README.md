@@ -2,6 +2,8 @@
 
 Ce projet représente l'aboutissement de mes compétences en automatisation et en développement logiciel. Il s'agit d'un outil complet de type **ETL (Extract, Transform, Load)**, doté d'une interface graphique, conçu pour la surveillance de données de marché.
 
+![Supreviseur de Tri](./assets/App_fusion_suivi_marché.mp4)
+
 ## 🛠️ Architecture Technique
 
 - **Front-End (Tkinter) :** Interface utilisateur interactive permettant le contrôle du moteur d'analyse, remplaçant l'usage classique de la ligne de commande.
@@ -13,3 +15,5 @@ Ce projet représente l'aboutissement de mes compétences en automatisation et e
 
 ## 🎯 Objectif Métier
 Démontrer ma capacité à architecturer un produit logiciel de bout en bout : passer d'un script console basique à une véritable application de bureau robuste, tolérante aux pannes et générant de la donnée actionnable.
+
+[def]: ./assets/App_fusion_suivi_marché.mp4
