@@ -1,12 +1,21 @@
-# ⚙️ Algorithmes de Filtrage et Traitement de Données
+# 📂 Portfolio Python - Outils & Automatisations
 
-## 📖 À propos de ce projet
-Ce dépôt est mon environnement de développement pour la conception de scripts d'automatisation en Python. L'objectif est de construire des logiques de tri robustes, capables d'analyser des données brutes et d'en extraire des informations qualifiées.
+Bienvenue sur mon dépôt principal. Ce répertoire regroupe mes différents projets développés en Python, avec un focus particulier sur l'automatisation, l'analyse de données et la création d'outils autonomes.
 
-## 🚀 Scripts en production
+## 🚀 Projets Actuels
 
-* **`trieur_quartz.py`** : Moteur de filtrage conditionnel (*Data Filtering*). Le script parcourt une base de données locale (Liste de Dictionnaires) et isole des cibles précises en gérant strictement les conflits de typage de données (String vs Integer).
+### 1. 📁 Projet_1_Filtre (ou Projet_mine)
+* **Objectif :** Script de tri et de filtrage de données.
+* **Statut :** En cours d'optimisation.
 
-## 🛠️ Stack Technique
-* Python 3
-* Git / GitHub (Versioning)
+### 2. 📁 Projet_2_Scanner (Traceur de Marché)
+* **Objectif :** Moteur de surveillance de marché autonome.
+* **Fonctionnalités :** 
+  - Boucle de scan continue.
+  - Déclenchement d'alertes "Take Profit" dynamiques.
+  - Superviseur de cycle intégré avec arrêt automatique (Kill Switch).
+
+## 🛠 Environnement Technique
+- **Langage :** Python 3
+- **Contrôle de version :** Git / GitHub
+- **Éditeur :** VS Code
