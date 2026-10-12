@@ -1,29 +1,30 @@
-# 📂 Portfolio Python - Outils & Automatisations
+# 📈 Market Supervisor Bot (V1.1)
 
-Bienvenue sur mon dépôt principal. Ce répertoire regroupe mes différents projets développés en Python, avec un focus particulier sur l'automatisation, l'analyse de données et la création d'outils autonomes.
+Bienvenue sur le dépôt du **Market Supervisor Bot**. Cet outil est un exécutable de bureau autonome (RPA léger) conçu pour automatiser la surveillance d'actifs, l'analyse de données et la génération de rapports métier en temps réel.
 
-<img width="640" height="auto" alt="Vido_realease_app_fusion py-ezgif com-remove-background" src="https://github.com/user-attachments/assets/30ed2291-d206-4984-b0dc-90147cde36d7" />
+<div align="center">
+  <img width="856" height="480" alt="Démo Market Supervisor" src="https://github.com/user-attachments/assets/3faa9cf0-1119-4292-a740-d0f368cdf517" />
+</div>
 
-### 🛠️ Stack Technique
-* **Langage :** Python 3.x
-* **GUI :** Tkinter (Bibliothèque standard native pour une interface légère et sans dépendances externes).
-* **Déploiement :** PyInstaller (Génération d'un binaire standalone `.exe` pour une portabilité totale sous Windows).
-* **Architecture (V1 MVP) :** Exécution synchrone et script monolithique. Le traitement séquentiel des événements garantit la stabilité et la fiabilité du reporting final.
+## 🎯 Cas d'usage & Valeur Ajoutée
+- **Automatisation (ETL) :** Extraction des données de marché, analyse par rapport à des seuils critiques (Take Profit), et génération de rapports physiques exploitables.
+- **Gain de temps de production :** Alertes visuelles instantanées permettant d'optimiser la prise de décision, supprimant la nécessité de surveiller manuellement les cours.
 
-## 🚀 Projets Actuels
+## 🛠️ Stack Technique & Architecture (V1.1 "Clean Code")
+- **Langage :** Python 3.x
+- **GUI :** Tkinter (Bibliothèque native, approche orientée objet pour une interface fluide).
+- **Déploiement :** PyInstaller (Compilation standalone furtive `--noconsole` pour un rendu logiciel de bureau 100 % propre).
+- **Architecture :** Conception modulaire avec découplage strict des responsabilités :
+  - `moteur.py` : Cœur logique (ETL) et traitement des données isolés.
+  - `gui.py` : Gestion exclusive de l'interface visuelle (POO).
+  - `main.py` : Chef d'orchestre léger reliant le moteur et la vue. Intégration du multithreading pour garantir la stabilité de l'application pendant les cycles de scan.
 
-### 1. 📁 Projet_1_Filtre (ou Projet_mine)
-* **Objectif :** Script de tri et de filtrage de données.
-* **Statut :** En cours d'optimisation.
+## 🚀 Fonctionnalités Clés
+- **Scan en arrière-plan :** Boucle d'analyse continue sans gel de l'interface (Threading).
+- **Alertes Dynamiques :** Détection et notification du franchissement des objectifs.
+- **Reporting Automatisé :** Génération de fichiers texte horodatés (`rapport_opportunites.txt`) récapitulant les actifs à clôturer.
+- **Résilience :** Gestion des exceptions (`try/except`) pour assurer la stabilité du processus en cas de coupure réseau.
 
-### 2. 📁 Projet_2_Scanner (Traceur de Marché)
-* **Objectif :** Moteur de surveillance de marché autonome.
-* **Fonctionnalités :** 
-  - Boucle de scan continue.
-  - Déclenchement d'alertes "Take Profit" dynamiques.
-  - Superviseur de cycle intégré avec arrêt automatique (Kill Switch).
-
-## 🛠 Environnement Technique
-- **Langage :** Python 3
-- **Contrôle de version :** Git / GitHub
-- **Éditeur :** VS Code
+## 📦 Release Notes (V1.1)
+- Refonte architecturale totale (passage du script monolithique à une structure Modèle-Vue-Contrôleur simplifiée).
+- Déploiement de `MSv1.1.exe` en mode furtif (suppression de la console d'arrière-plan).
