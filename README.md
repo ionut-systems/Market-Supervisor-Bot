@@ -1,3 +1,4 @@
+<img width="800" height="447" alt="Vido_realease_app_fusion py-ezgif com-remove-background" src="https://github.com/user-attachments/assets/30ed2291-d206-4984-b0dc-90147cde36d7" />
 # 📂 Portfolio Python - Outils & Automatisations
 
 Bienvenue sur mon dépôt principal. Ce répertoire regroupe mes différents projets développés en Python, avec un focus particulier sur l'automatisation, l'analyse de données et la création d'outils autonomes.
