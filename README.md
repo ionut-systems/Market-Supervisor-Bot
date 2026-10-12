@@ -4,6 +4,12 @@ Bienvenue sur mon dépôt principal. Ce répertoire regroupe mes différents pro
 
 <img width="640" height="auto" alt="Vido_realease_app_fusion py-ezgif com-remove-background" src="https://github.com/user-attachments/assets/30ed2291-d206-4984-b0dc-90147cde36d7" />
 
+### 🛠️ Stack Technique
+* **Langage :** Python 3.x
+* **GUI :** Tkinter (Bibliothèque standard native pour une interface légère et sans dépendances externes).
+* **Déploiement :** PyInstaller (Génération d'un binaire standalone `.exe` pour une portabilité totale sous Windows).
+* **Architecture (V1 MVP) :** Exécution synchrone et script monolithique. Le traitement séquentiel des événements garantit la stabilité et la fiabilité du reporting final.
+
 ## 🚀 Projets Actuels
 
 ### 1. 📁 Projet_1_Filtre (ou Projet_mine)
