@@ -2,10 +2,12 @@
 
 Bienvenue sur le dépôt du **Market Supervisor Bot**. Cet outil est un exécutable de bureau autonome (RPA léger) conçu pour automatiser la surveillance d'actifs, l'analyse de données et la génération de rapports métier en temps réel.
 
-<div align="center">
+<div align="left">
   <img width="856" height="480" alt="Démo Market Supervisor" src="https://github.com/user-attachments/assets/3faa9cf0-1119-4292-a740-d0f368cdf517" />
 </div>
+
 (Exemple d'exécution : Extraction, traitement et structuration des données en temps réel)
+
 
 💡 Le Problème Résolu
 La majorité des équipes perdent un temps précieux sur des tâches répétitives à faible valeur ajoutée :
